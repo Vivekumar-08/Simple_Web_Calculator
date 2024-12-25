@@ -28,10 +28,10 @@ git clone [ https://github.com/viv/web-calculator.git](https://github.com/Viveku
   Open index.html in your browser to start using the calculator
 
 ## Usage
--**Click the buttons to input numbers and operators**
--**Press the = button to calculate the result**
--**Press AC to clear the screen**
--**Press DEL to remove the last character**
+- **Click the buttons to input numbers and operators**
+- **Press the = button to calculate the result**
+- **Press AC to clear the screen**
+- **Press DEL to remove the last character**
 
 ## Screenshot
 Here’s a screenshot of the calculator:
