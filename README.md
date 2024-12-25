@@ -15,7 +15,7 @@ Technologies Used
 - **JavaScript**: For the functionality and logic of the calculator
 
 ## Demo
-You can view the live demo of the calculator by visiting the [Live Demo Link][(https://calculator-vivek-08.natlify.app)](https://calculator-vivek-08.netlify.app).
+You can view the live demo of the calculator by visiting the [Live Demo Link] (https://calculator-vivek-08.natlify.app).
 
 ## Installation
 To run the calculator locally, follow these steps:
@@ -24,16 +24,14 @@ To run the calculator locally, follow these steps:
 git clone [ https://github.com/viv/web-calculator.git](https://github.com/Vivekumar-08/Simple_Web_Calculator.git)
 
 ## Navigate to the project directory:
-cd web-calculator
+-**cd web-calculator**
 Open index.html in your browser to start using the calculator.
 
 ## Usage
-Click the buttons to input numbers and operators.
-Press the = button to calculate the result.
-Press AC to clear the screen.
-Press DEL to remove the last character. 
+-**Click the buttons to input numbers and operators.**
+-**Press the = button to calculate the result.**
+-**Press AC to clear the screen.**
+-**Press DEL to remove the last character. **
 
 ## Screenshot
 Here’s a screenshot of the calculator:
-![Calculator Screenshot](images/screenshot1.png)
-![Calculator Screenshot](images/screenshot2.png)
