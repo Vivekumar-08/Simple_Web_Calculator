@@ -23,8 +23,8 @@ html {
     margin: 100px auto;
     padding: 20px 20px 12PX;
 
-    background: #0b8fcc;
-    background: linear-gradient(#0757ce, #8bceec);
+    background: #0b8fccb4;
+    background: linear-gradient(#d2d3d4a7, #4098c1);
     border-radius: 3px;
     /* Using box shadows to create 3D effects */
     box-shadow: 0px 4px #009de4, 0px 10px 15px rgba(0,0,0,0.2);
@@ -51,7 +51,6 @@ html {
     letter-spacing: 1px;
 }
 
-/* Clear Floats to make sure #calculator includes them correctly */
 .keys, .top {
     overflow: hidden;
 }
@@ -90,7 +89,7 @@ html {
 
 /* Eval Button */
 .keys span.eval {
-    background: #f1ff92;
+    background: #ff929f;
     box-shadow: 0px 4px #9da853;
     color: #888e5f;
 }
