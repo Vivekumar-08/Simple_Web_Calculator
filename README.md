@@ -24,8 +24,7 @@ To run the calculator locally, follow these steps:
 git clone [ https://github.com/viv/web-calculator.git](https://github.com/Vivekumar-08/Simple_Web_Calculator.git)
 
 ## Navigate to the project directory:
--**cd web-calculator**
-Open index.html in your browser to start using the calculator.
+- **cd web-calculator**: Open index.html in your browser to start using the calculator.
 
 ## Usage
 -**Click the buttons to input numbers and operators.**
