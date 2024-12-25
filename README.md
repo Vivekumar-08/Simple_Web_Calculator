@@ -15,7 +15,7 @@ Technologies Used
 - **JavaScript**: For the functionality and logic of the calculator
 
 ## Demo
-You can view the live demo of the calculator by visiting the [Live Demo Link](https://calculator-vivek-08.natlify.app).
+You can view the live demo of the calculator by visiting the [Live Demo Link]([https://calculator-vivek-08.natlify.app](https://calculator-vivek-08.netlify.app/)).
 
 ## Installation
 To run the calculator locally, follow these steps:
