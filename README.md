@@ -35,3 +35,7 @@ git clone [ https://github.com/viv/web-calculator.git](https://github.com/Viveku
 
 ## Screenshot
 Here’s a screenshot of the calculator:
+
+![Screenshot 2024-12-25 211617](https://github.com/user-attachments/assets/23b2c03c-442b-4611-bc2d-9fa0da3513d0)
+![Screenshot 2024-12-25 211642](https://github.com/user-attachments/assets/b53de7d9-9701-4278-9e81-35f0e95869bd)
+
